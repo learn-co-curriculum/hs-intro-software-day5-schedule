@@ -1,9 +1,4 @@
----
-tags: schedule, kids, ruby, object orientation
-language: ruby
-level: 1
-type: schedule
----
+
 
 This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
 
